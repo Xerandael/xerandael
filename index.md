@@ -8,4 +8,4 @@ Participants will be grouped together randomly, given tasks to complete, and cap
 
 At the end of the day, points will be tallied, numbers will be added, scores will be reckoned, and at the end of it all the player with the most points will take home the coveted _Golden Almond_.
 
-To sign up, contact rsvp@alexnye.com.
+To sign up, contact <rsvp@alexnye.com>.
