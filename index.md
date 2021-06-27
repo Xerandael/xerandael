@@ -2,7 +2,7 @@
 
 ![almond](https://user-images.githubusercontent.com/74554647/122323074-07155200-cf16-11eb-8b3a-da55aa76d862.png)
 
-Forget the Olympics!  You are invited to Almondale Academy on Saturday, July 17th for games of challenge.
+Forget the Olympics!  You are invited to Almondale Academy on Saturday, July 17th from 10am to 2pm for games of challenge.
 
 Participants will be grouped together randomly, given tasks to complete, and capriciously judged by our taskmasters.  Points will be awarded for creativity, prowess, cheekiness, comedy, or whatever the whims of the taskmasters dictate.
 
