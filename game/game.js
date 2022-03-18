@@ -55,8 +55,8 @@ window.onload = () => {
 
   // TODO: hardcoded for now
   const mapName = 'example'
-  fetch(`maps/${mapName}.json`).then(file => {
-    console.log(file.json())
+  fetch(`maps/${mapName}.json`).then(file => file.json()).then(initialObjects => {
+    console.log(initialObjects)
   })
 
   // TODO: all temp
