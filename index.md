@@ -1,1 +1,1 @@
-Ceci n'est pa un `index.html`.
+Ceci n'est pas une `index.html`.
